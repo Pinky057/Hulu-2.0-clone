@@ -1,3 +1,9 @@
+# The HULU 2.0 clone app 
+[Hulu 2.0 clone app](https://hulu-2-0-clone-beta.vercel.app/)
+
+### You can see the app in the description above.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
