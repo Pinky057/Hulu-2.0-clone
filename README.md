@@ -2,4 +2,7 @@
 
 ### You can see the app in the description above.
 
-### This is a Next js project using Tailwind Css and TMDB movie Database. Fully responsive web app.
+
+![](1.png)
+
+## This is a Next js project using Tailwind Css and TMDB movie Database. Fully responsive web app.
